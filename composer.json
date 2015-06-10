@@ -1,5 +1,5 @@
 {
-    "name": "campaignmonitor/createsend-php",
+    "name": "philoye/createsend-php",
     "type": "library",
     "description": "A php library which implements the complete functionality of the Campaign Monitor API.",
     "keywords": ["campaign", "monitor", "api"],
