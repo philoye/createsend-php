@@ -57,7 +57,7 @@ class CS_REST_Transactional_Timeline extends CS_REST_Wrapper_Base {
      * @access public
      */
     function set_client($client_id) {
-      $this->_client_id_param = array("client_id" => $client_id);
+      $this->_client_id_param = array("clientID" => $client_id);
     }
 
     /**
